@@ -51,7 +51,7 @@
 						<input type="submit" id="botao" name="botao" value="Atualizar">
 					</td>
 					<td>
-						<input type="submit" id="botao" name="botao" value="Excluir">
+						<input type="submit" id="botao" name="botao" value="Deletar">
 					</td>
 				</tr>
 			</table>
